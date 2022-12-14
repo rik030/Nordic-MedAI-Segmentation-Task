@@ -1,0 +1,1 @@
+# Nordic-MedAI-Segmentation-Task
